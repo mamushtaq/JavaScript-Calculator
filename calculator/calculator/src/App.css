@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+
+}
+.calculator {
+    width: 500px;
+    border-radius: 6px;
+    box-shadow: 10px -2px 20px 2px rgb(0 0 0 /30%);
+    color: #fff;
+    background-color: #333;
+    margin: 20px auto 0 auto;
+    padding: 0 20px 20px 20px ;
+    font-size: 24px;
+}
+.input {
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+.row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.row button {
+    display: block;
+    width: 33%;
+    padding: 10px 10px;
+    font-size: 24px;
+}
